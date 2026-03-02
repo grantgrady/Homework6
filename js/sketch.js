@@ -69,7 +69,7 @@ function draw() {
     fill(255);
     textSize(14);
     textAlign(RIGHT);
-    text("Created by [Your Name]", width - 20, height - 20);
+    text("Created by Grant Grady", width - 20, height - 20);
 }
 
 function createAnimations() {
